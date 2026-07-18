@@ -1,4 +1,3 @@
-````markdown
 # 🔐 EFS Folder Encryption Verifier
 
 A lightweight Python-based command-line utility for verifying the **Encrypting File System (EFS)** status of folders on Windows using the native **cipher.exe** command.
